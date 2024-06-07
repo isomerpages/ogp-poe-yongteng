@@ -22,12 +22,6 @@ sections:
         - title: Key Highlight Title
           description: Key Highlight description
           url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - announcements:
       title: Amazing Food
       id: announcements
@@ -75,4 +69,5 @@ sections:
             overlooking CBD.
           linktext: Directions
           url: https://maps.app.goo.gl/ScPooqbgr2YpsqEU8
+      description: in Singapore
 ---
