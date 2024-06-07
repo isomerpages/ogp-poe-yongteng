@@ -66,12 +66,13 @@ sections:
           linktext: Directions
           url: https://maps.app.goo.gl/aoazPw3voFPPRyDr6
         - title: Ralph's Coffee
-          description: "A cozy cafe in MBS with quality drinks, cakes and exceptional
-            service. "
+          description: A cozy cafe in MBS with quality drinks, cakes and exceptional
+            service.
           linktext: Directions
           url: https://maps.app.goo.gl/m4TV6YRS5JLoE2MF9
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: CapitaSpring
+          description: A 51-storey building with 3 floors of greenery, rooftop garden
+            overlooking CBD.
+          linktext: Directions
+          url: https://maps.app.goo.gl/ScPooqbgr2YpsqEU8
 ---
