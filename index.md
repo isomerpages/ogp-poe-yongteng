@@ -13,14 +13,14 @@ sections:
       button: Connect with me
       url: https://www.linkedin.com/in/tee-yong-teng-2a55ab134/
       key_highlights:
-        - title: 🇰🇷 South Korea
-          description: May'24 | Seoul, Ikseon-Dong
+        - title: Key Highlight Title
+          description: Key Highlight description
           url: ""
-        - title: 🇸🇬 Singapore
-          description: April'24 | Tanjong Pagar
+        - title: Key Highlight Title
+          description: Key Highlight description
           url: ""
-        - title: 🇲🇾 Malaysia
-          description: Jan'24 | Johor Bahru
+        - title: Key Highlight Title
+          description: Key Highlight description
           url: ""
   - infobar:
       title: Infobar title
@@ -29,7 +29,7 @@ sections:
       button: Button text
       url: /faq/
   - announcements:
-      title: "Amazing Food "
+      title: Amazing Food
       id: announcements
       subtitle: Dont Miss Out On Places With
       announcement_items:
