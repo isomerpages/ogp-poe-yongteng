@@ -8,8 +8,7 @@ notification: Here's a notification bar you can use!
 sections:
   - hero:
       title: Tee Yong Teng
-      subtitle: Sprinkled with a mix of a foodie, tech geek, curiosity and full of
-        adrenaline with shuttles
+      subtitle: "IT Diploma Graduate, Curious Tech Geek, Experimenter, "
       background: /images/hero-banner.png
       button: Connect with me
       url: https://www.linkedin.com/in/tee-yong-teng-2a55ab134/
