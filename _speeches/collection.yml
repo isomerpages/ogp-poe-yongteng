@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  speeches:
     output: true
     order:
       - Speeches by SM Lee.md
