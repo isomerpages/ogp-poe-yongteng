@@ -56,19 +56,20 @@ sections:
           link_text: ""
           link_url: ""
   - textcards:
-      title: Text Cards
-      subtitle: Add informational text
+      title: Eat / Drink / Relax
+      subtitle: Our Top 3 Locations to
       id: textcards
-      description: Text card description
       cards:
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
-        - title: Card
-          description: Card description
-          linktext: Learn more
-          url: ""
+        - title: 3 Meals a Day
+          description: Salted Egg and Cheesy Butter Chicken Rice lovers, you wont be
+            disappointed.
+          linktext: Directions
+          url: https://maps.app.goo.gl/aoazPw3voFPPRyDr6
+        - title: Ralph's Coffee
+          description: "A cozy cafe in MBS with quality drinks, cakes and exceptional
+            service. "
+          linktext: Directions
+          url: https://maps.app.goo.gl/m4TV6YRS5JLoE2MF9
         - title: Card
           description: Card description
           linktext: Learn more
