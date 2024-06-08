@@ -2,5 +2,6 @@ collections:
   speeches:
     output: true
     order:
+      - Speeches of PM Wong 1.md
       - Speeches by PM Wong.md
       - Speeches by SM Lee.md
