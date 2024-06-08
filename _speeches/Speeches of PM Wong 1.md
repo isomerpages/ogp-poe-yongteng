@@ -6,31 +6,21 @@ description: ""
 ---
 <h1>Iconic Speeches by PM Wong</h1>
 <hr>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>PM Wong's Maiden Speech as Prime Minister of Singapore</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>PM Wong was sworn in to Office on Wednesday, 15 May 2024 at the Istana
-where he gave a speech.</p>
 <p></p>
-<blockquote>
-<p>“We can be a society where every Singaporean matters and a Singapore that
-matters to every Singaporean”</p>
-<p>“This is my promise to all Singaporeans: I will serve you with all my
-heart. I will never settle for the status quo. I will always seek better
-ways to make tomorrow better than today.”</p>
-</blockquote>
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/02wyKGU7F6Y?si=2W9VkHrStzNgMjAd"></iframe>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Maiden Speech by PM Wong" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">PM Wong's Maiden Speech</div><div class="isomer-card-description">PM Wong was sworn in to Office on Wednesday, 15 May 2024 at the Istana where he gave a speech.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
-<p></p>
 </div>
-</details>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
 </div>
-<p></p>
-<h4></h4>
-<p></p>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <p></p>
 <p></p>
 <p></p>
