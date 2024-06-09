@@ -148,12 +148,35 @@ till 31 Mar 2025</p>
 </li>
 <li>
 <p>SkillsFuture Enterprise Credit validity extended to 30 Jun 2025</p>
+</li>
+<li>
+<p>Enhanced support for green loans</p>
+</li>
+<li>
+<p>Enhanced Energy Efficiency Grant</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Extended to more sectors including Manufacturing, Construction, Maritime,
+Data Centres and their users</p>
+</li>
+<li>
+<p>More support to companies with ambitious plans to reduce emissions</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
+<p><strong><u>GST Voucher Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $6b</p>
 </li>
 </ul>
-</li>
-</ul>
-<p><strong><u>National Productivity Fund </u></strong>
+<p></p>
+<p><strong><u>National Productivity Fund</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -177,13 +200,20 @@ till 31 Mar 2025</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>GST Voucher Fund</u></strong>
+<p><strong><u>National AI Strategy 2.0</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Topped up by $6b</p>
+<p>$1b allocation over the next 5 years into AI Compute, Talent and Industry
+Development</p>
 </li>
 </ul>
+<p></p>
+<p><strong><u>Green Energy</u></strong>
+</p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
