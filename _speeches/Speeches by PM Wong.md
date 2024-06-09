@@ -6,6 +6,8 @@ description: This page contain speeches by PM Wong
 ---
 <h1>Iconic Speeches by PM Wong</h1>
 <hr>
+<p><strong>15 May 2024</strong>
+</p>
 <h4>PM Wong's Maiden Speech as Prime Minister of Singapore</h4>
 <p>PM Wong was sworn in to Office on Wednesday, 15 May 2024 at the Istana
 where he gave a speech.</p>
@@ -20,9 +22,28 @@ heart. I will never settle for the status quo. I will always seek better
 ways to make tomorrow better than today.”</p>
 </blockquote>
 <p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/02wyKGU7F6Y?si=2W9VkHrStzNgMjAd"></iframe>
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p></p>
