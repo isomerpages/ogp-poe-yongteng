@@ -52,4 +52,4 @@ plugins:
 staging: https://staging-lite.d3g0obs3hoq0b8.amplifyapp.com
 prod: https://master.dgmnaw04f0nca.amplifyapp.com
 facebook-pixel: ""
-resources_name: speeches-of-pm-wong-1
+resources_name: speeches
