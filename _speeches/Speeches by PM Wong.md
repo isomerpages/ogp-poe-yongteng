@@ -89,7 +89,11 @@ measures for the Nation.</p>
 <p></p>
 <p><strong><u>Cost-of-Living Special Payment</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>$200-$400 for Adult Singaporeans</p>
+</li>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p>Assessable income of up to $100,000 and own no more than 1 property</p>
@@ -109,8 +113,13 @@ Charges</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u> Enterprise Support Package</u></strong>
+<p><strong><u>Enterprise Support Package</u></strong>
 </p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$1.3b support to companies</p>
+</li>
+</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p>Corporate Income Tax Rebate</p>
@@ -122,7 +131,13 @@ Charges</p>
 </li>
 </ul>
 <p></p>
-<p></p>
+<p><strong><u>GST Voucher Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $6b</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
