@@ -2,6 +2,5 @@ collections:
   speeches:
     output: true
     order:
-      - Alternate Layout.md
       - Speeches by PM Wong.md
       - Speeches by SM Lee.md
