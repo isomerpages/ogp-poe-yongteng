@@ -209,7 +209,7 @@ Development</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>SkillsFuture Level-Up Programme </u></strong>
+<p><strong><u>SkillsFuture Level-Up Programme</u></strong>
 </p>
 <p>For all Singaporeans aged 40 and above:</p>
 <ul data-tight="true" class="tight">
@@ -245,9 +245,12 @@ Development</p>
 payout of $4,900 up from $4,200.</p>
 </li>
 <li>
-<p>Raised Local Qualifying Salary (LQS). All local employees at companies
-that hire foreign workers must be paid the LQS.</p>
+<p>Raised Local Qualifying Salary (LQS).</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>All local employees at companies that hire foreign workers must be paid
+the LQS.</p>
+</li>
 <li>
 <p>LQS for full-time workers will be raised to $1,600 from $1,400 from this
 year</p>
@@ -257,14 +260,120 @@ year</p>
 </li>
 <li>
 <p>More support for employers who raised wages of lower wage workers.</p>
+<p></p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><u>Progressive Wage Credit Scheme (PWCS)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>PWCS Fund top up $1b</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Co-funding levels will be raised to 50% from 30% this year</p>
 </li>
 <li>
-<p>Progressive Wage Credit Scheme (PWCS) Co-funding levels will be raised
-to 50% from 30% this year</p>
+<p>PWCS Wage Ceiling raised to $3,000 from $2,500 in 2025</p>
+<p></p>
 </li>
 </ul>
+<p><strong><u>ITE Progression Award</u></strong>
+</p>
+<p>For Singaporean ITE Graduates aged 30 and below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$5,000 topup to PSEA upon Diploma Enrollment</p>
+</li>
+<li>
+<p>$10,000 topup to CPF OA upon Diploma Completion</p>
 </li>
 </ul>
+<p></p>
+<p><strong><u>Enhanced Commlink Plus Progress Package</u></strong>
+</p>
+<p>For less well-off families:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$600 combination of Cash and CPF for every quarter for every Adults who
+secure a job and stay employed</p>
+</li>
+<li>
+<p>Matching grants from the government for any voluntary contributions made
+to their CPF</p>
+</li>
+</ul>
+<p></p>
+<p>Reduced monthly childcare fee caps in Government supported preschools
+in 2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$640 for anchor operators</p>
+</li>
+<li>
+<p>$680 for partner operators</p>
+</li>
+</ul>
+<p></p>
+<p>Higher preschool subsidies will be extended to all children from lower-income
+families, including those with non-working mothers.</p>
+<p></p>
+<p><strong><u>Edusave Endownment Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Top up $2b</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Parenthood Provisional Housing Scheme (PPHS)</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Open Market Vouchers for One year</p>
+</li>
+<li>
+<p>For eligible families who rent a HDB flat in the Open Market</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Support for Special Needs </u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Reduced maximum monthly fees at Special Education Schools to $90 from
+$150</p>
+</li>
+<li>
+<p>Reduced fee caps for all special student care centers</p>
+</li>
+<li>
+<p>More employment and integration support for Adults with disabilities</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>CPF Adjustments</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CPF contribution rates increase for those aged 55 to 65 by 1.5% in 2025</p>
+</li>
+<li>
+<p>Extend CPF transition offset to employers by another year</p>
+</li>
+<li>
+<p>Enhanced Retirement Sum (ERS) raised from 3x to 4x ($426,000) the Basic
+Retirement Sum from 2025</p>
+</li>
+<li>
+<p>Special Account will be closed for those aged 55 and above and transferred
+to Retirement Account</p>
+</li>
+</ul>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
