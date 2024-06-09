@@ -7,7 +7,7 @@ description: This page contain PM Wong's Maiden Speech to the Nation
 image: ""
 variant: tiptap
 ---
-<p><a href="/Speeches/" rel="noopener noreferrer nofollow" target="_blank">Back</a>
+<p><a href="/speeches/speeches-of-pm-wong-1" rel="noopener noreferrer nofollow" target="_blank">Back</a>
 </p>
 <h4>PM Wong's Maiden Speech as Prime Minister of Singapore</h4>
 <p>PM Wong was sworn in as Singapore's fourth Prime Minister at 2000hrs local
