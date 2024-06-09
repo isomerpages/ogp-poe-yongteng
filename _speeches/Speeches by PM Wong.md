@@ -209,9 +209,62 @@ Development</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>Green Energy</u></strong>
+<p><strong><u>SkillsFuture Level-Up Programme </u></strong>
 </p>
-<p></p>
+<p>For all Singaporeans aged 40 and above:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$4000 topup in SkillFuture Credits</p>
+</li>
+<li>
+<p>Subsidized Full Time Diploma from AY 2025 onwards</p>
+</li>
+<li>
+<p>Monthly Training Allowance for enrollment in selected full-time courses</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Equivalent to 50% of one's average income.</p>
+</li>
+<li>
+<p>Capped at $3000 / Month</p>
+</li>
+<li>
+<p>Lifetime allowance of up to 24 months</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><u>Enhanced Workfare Supplement Scheme</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raised qualifying income cap $2,500 to $3,000 from next year</p>
+</li>
+<li>
+<p>Increased Workfare Payout for lower wage senior workers for maximum annual
+payout of $4,900 up from $4,200.</p>
+</li>
+<li>
+<p>Raised Local Qualifying Salary (LQS). All local employees at companies
+that hire foreign workers must be paid the LQS.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>LQS for full-time workers will be raised to $1,600 from $1,400 from this
+year</p>
+</li>
+<li>
+<p>Minimum hourly rate will be raised from $9.5 to $10.50</p>
+</li>
+<li>
+<p>More support for employers who raised wages of lower wage workers.</p>
+</li>
+<li>
+<p>Progressive Wage Credit Scheme (PWCS) Co-funding levels will be raised
+to 50% from 30% this year</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
