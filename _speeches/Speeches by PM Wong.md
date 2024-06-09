@@ -127,7 +127,53 @@ Charges</p>
 <li>
 <p>50% rebate in YA2024. Capped at $40,000</p>
 </li>
+<li>
+<p>Min. benefit of $2000 in cash payout for companies with at least 1 local
+employee in 2023</p>
+</li>
 </ul>
+</li>
+<li>
+<p>Enhanced Enterprise Financing Scheme</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Maximum working loan quantum permanently raised to $500,000</p>
+</li>
+<li>
+<p>Extended enhanced maximum trade loan quantum till 31 Mar 2025</p>
+</li>
+<li>
+<p>Extend risk sharing of project loans to domestic construction projects
+till 31 Mar 2025</p>
+</li>
+<li>
+<p>SkillsFuture Enterprise Credit validity extended to 30 Jun 2025</p>
+<p></p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><u>National Productivity Fund </u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Top up $2b</p>
+<p></p>
+</li>
+</ul>
+<p><strong><u>Financial Sector Development Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $2b</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Research Innovation and Enterprise 2025 Plan</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $3b</p>
 </li>
 </ul>
 <p></p>
@@ -138,6 +184,7 @@ Charges</p>
 <p>Topped up by $6b</p>
 </li>
 </ul>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
