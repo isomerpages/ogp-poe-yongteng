@@ -10,16 +10,15 @@ description: This page contain speeches by PM Wong
 </p>
 <h4>PM Wong's Maiden Speech</h4>
 <p>PM Wong was sworn in to Office on Wednesday, 15 May 2024 at the Istana
-where he gave a speech.</p>
-<p></p>
+in a outdoor ceremony and was attended by hundreds of guests</p>
 <blockquote>
 <p>“We can be a society where every Singaporean matters and a Singapore that
 matters to every Singaporean”</p>
 <p>“This is my promise to all Singaporeans: I will serve you with all my
 heart. I will never settle for the status quo. I will always seek better
 ways to make tomorrow better than today.”</p>
-</blockquote>
 <p></p>
+</blockquote>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -42,6 +41,145 @@ ways to make tomorrow better than today.”</p>
 </tr>
 </tbody>
 </table>
+<p>In his speech, PM Wong highlighted numerous pointers below</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Generational Change</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>PM Lawrence Wong will be Singapore's 4th Prime Minister and the first
+Prime Minister to be born after Singapore's Independence.</p>
+</li>
+<li>
+<p>Leadership style will differ from that of previous generations. We will
+lead in our own way. We will continue to think boldly and think far.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Standing on the shoulders of Giants</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Mr Lee Kuan Yew and his team, led us through independence and established
+the key pillars of governance.</p>
+</li>
+<li>
+<p>Mr Goh Chok Tong and his team, took us through the next lap and nurtured
+a kinder and gentler society.</p>
+</li>
+<li>
+<p>Mr Lee Hsien Loong, navigating external as well as domestic changes and
+overcame multiple crises.</p>
+</li>
+<li>
+<p>One of the key priorities is to identify and persuade younger Singaporeans
+- men and women in their 30s and 40s to join our team.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>A Different World</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>30 years after the cold war ended, Singapore enjoyed unprecedented peace
+and stability in the Asia Pacific. That era is over and will not return.
+We now face a world of conflict and rivalry.</p>
+</li>
+<li>
+<p>We must brace ourselves to these new realities and adapt to a messier,
+riskier and more violent world.</p>
+</li>
+<li>
+<p>Singapore's international standing is high and is admired and trusted
+worldwide. We seek to be friends with all while upholding our rights and
+interests.</p>
+</li>
+<li>
+<p>Strengthening our partnerships, near and far; and advance Singapore's
+interests.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Building on our strengths</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>The key to our success is our high level of trust in each other and our
+ability to work well together in times of tough external circumstances.</p>
+</li>
+<li>
+<p>We have ensured that every community, every religion and every linguistic
+group, big or small, feels included, respected and valued.</p>
+</li>
+<li>
+<p>We seek pragmatic compromises and find as much common ground as possible
+when issues arise</p>
+</li>
+<li>
+<p>As Prime Minister, I will lead and bear responsibility for the decisions
+I take.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Forward Singapore</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore is at a high economic level. We have built excellent systems
+of education, housing, healthcare and transport. But technology is advancing
+and our population is ageing fast.</p>
+</li>
+<li>
+<p>Younger Singaporeans strive and work hard for their goals. But they do
+not wish to be trapped in an endless rat race of hyper-competition.</p>
+</li>
+<li>
+<p>We will find new ways to be productive and innovative and achieve a better
+balance where work is purposeful and life is meaningful. We will foster
+a fairer, more just and more equal society.</p>
+</li>
+<li>
+<p>We will look after our seniors, and those with special needs. We will
+support all Singaporeans, regardless of their start points age or ability
+- to uplift themselves and lead fulfilling lives.</p>
+</li>
+<li>
+<p>Many have said that Singapore won't make it. Yet time and again, we have
+proved the doubters wrong.&nbsp;And we will do so again.</p>
+</li>
+<li>
+<p>My mission is clear: To continue defying the odds and to sustain this
+miracle called Singapore.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Taking Singapore Forward Together</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<ul data-tight="true" class="tight">
+<li>
+<p>Everyone will play a key role in shaping our future. Let us unite with
+common purpose and shared resolve.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<h4></h4>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <hr>
 <p>16 Febuary 2024</p>
 <h4>Budget 2024</h4>
@@ -75,7 +213,9 @@ and solidarity and keep our society together"</p>
 </tr>
 </tbody>
 </table>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<p></p>
+<p>In this Budget, Finance Minister Lawrence Wong announced the following:</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Funding Allocations / Adjustments</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -212,8 +352,6 @@ such as Pickleball, Tchoukball and Powerlifting</p>
 </table>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Vouchers</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -239,12 +377,12 @@ such as Pickleball, Tchoukball and Powerlifting</p>
 <p>$600 for all Singaporean Households</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>$300 to be disbursed End-Jun</p>
+<p>$300 to be disbursed End-Jun.</p>
 </li>
 </ul>
 <ul data-tight="true" class="tight">
 <li>
-<p>$300 to be disbursed Jan 2025</p>
+<p>$300 to be disbursed Jan 2025.</p>
 </li>
 </ul>
 </td>
@@ -256,10 +394,10 @@ such as Pickleball, Tchoukball and Powerlifting</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>$200-$400 for Adult Singaporeans</p>
+<p>$200-$400 for Adult Singaporeans.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Assessable income of up to $100,000 and own no more than 1 property</p>
+<p>Assessable income of up to $100,000 and own no more than 1 property.</p>
 </li>
 </ul>
 </li>
@@ -274,11 +412,11 @@ such as Pickleball, Tchoukball and Powerlifting</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Up to $950 of utility bill rebates for eligible HDB Households from Apr
-2024-Mar 2025</p>
+2024-Mar 2025.</p>
 </li>
 <li>
 <p>Eligible HDB Households will receive up to 4 months of Service and Conservancy
-Charges</p>
+Charges.</p>
 </li>
 </ul>
 </td>
@@ -290,7 +428,7 @@ Charges</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>$200 LifeSG credits to all NSF and NSMen</p>
+<p>$200 LifeSG credits to all NSF and NSMen.</p>
 </li>
 </ul>
 </td>
@@ -302,10 +440,10 @@ Charges</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Open Market Vouchers for One year</p>
+<p>Open Market Vouchers for one year.</p>
 </li>
 <li>
-<p>For eligible families who rent a HDB flat in the Open Market</p>
+<p>For eligible families who rent a HDB flat in the open market.</p>
 </li>
 </ul>
 </td>
@@ -314,8 +452,6 @@ Charges</p>
 </table>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Workfare</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -341,19 +477,19 @@ Charges</p>
 <p>For Singaporeans aged 40 and above:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>$4000 top up in SkillFuture Credits</p>
+<p>$4000 top up in SkillFuture Credits.</p>
 </li>
 <li>
-<p>Subsidized Full Time Diploma from AY 2025 onwards</p>
+<p>Subsidized Full Time Diploma.</p>
 </li>
 <li>
-<p>Monthly Allowance in selected full-time courses</p>
+<p>Monthly Allowance in selected full-time courses:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>50% of one's average income.</p>
 </li>
 <li>
-<p>Capped at $3000 / Month, up to 24 months</p>
+<p>Capped at $3000 / Month, up to 24 months.</p>
 </li>
 </ul>
 </li>
@@ -367,21 +503,21 @@ Charges</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Raised qualifying income cap $2,500 to $3,000</p>
+<p>Raised qualifying income cap $2,500 to $3,000.</p>
 </li>
 <li>
 <p>Increased payout for lower wage senior workers for maximum annual payout
 of $4,900 up from $4,200.</p>
 </li>
 <li>
-<p>Raised Local Qualifying Salary (LQS).</p>
+<p>Raised Local Qualifying Salary (LQS):</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>All local employees at companies that hire foreign workers must be paid
 the LQS.</p>
 </li>
 <li>
-<p>LQS for full-time workers will be raised to $1,600 from $1,400</p>
+<p>LQS for full-time workers will be raised to $1,600 from $1,400.</p>
 </li>
 <li>
 <p>Minimum hourly rate will be raised from to $10.50 from $9.5</p>
@@ -401,10 +537,10 @@ the LQS.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Co-funding levels will be raised to 50% from 30%</p>
+<p>Co-funding levels will be raised to 50% from 30%.</p>
 </li>
 <li>
-<p>PWCS Wage Ceiling raised to $3,000 from $2,500</p>
+<p>PWCS Wage Ceiling raised to $3,000 from $2,500.</p>
 </li>
 </ul>
 </td>
@@ -418,11 +554,11 @@ the LQS.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>$600 combination of Cash and CPF every quarter for adults who secure a
-job and stay employed</p>
+job and stay employed.</p>
 </li>
 <li>
 <p>Matching grants from the government for any voluntary contributions made
-to their CPF</p>
+to their CPF.</p>
 </li>
 </ul>
 </td>
@@ -431,8 +567,6 @@ to their CPF</p>
 </table>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Business</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -457,11 +591,11 @@ to their CPF</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>50% rebate in YA2024. Capped at $40,000</p>
+<p>50% rebate in YA2024. Capped at $40,000.</p>
 </li>
 <li>
 <p>Min. benefit of $2000 in cash payout for companies with at least 1 local
-employee in 2023</p>
+employee in 2023.</p>
 </li>
 </ul>
 </td>
@@ -473,17 +607,17 @@ employee in 2023</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Maximum working loan quantum permanently raised to $500,000</p>
+<p>Maximum working loan quantum permanently raised to $500,000.</p>
 </li>
 <li>
-<p>Extended enhanced maximum trade loan quantum till 31 Mar 2025</p>
+<p>Extended enhanced maximum trade loan quantum till 31 Mar 2025.</p>
 </li>
 <li>
 <p>Extend risk sharing of project loans to domestic construction projects
-till 31 Mar 2025</p>
+till 31 Mar 2025.</p>
 </li>
 <li>
-<p>SkillsFuture Enterprise Credit validity extended to 30 Jun 2025</p>
+<p>SkillsFuture Enterprise Credit validity extended to 30 Jun 2025.</p>
 </li>
 </ul>
 </td>
@@ -496,7 +630,7 @@ till 31 Mar 2025</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Extended to more sectors including Manufacturing, Construction, Maritime,
-Data Centres and their users</p>
+Data Centres and their users.</p>
 </li>
 </ul>
 </td>
@@ -505,12 +639,9 @@ Data Centres and their users</p>
 </table>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Education</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Table</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -533,10 +664,10 @@ Data Centres and their users</p>
 <p>For Singaporean ITE Graduates aged 30 and below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>$5,000 top up to PSEA upon Diploma Enrollment</p>
+<p>$5,000 top up to PSEA upon Diploma Enrollment.</p>
 </li>
 <li>
-<p>$10,000 top up to CPF OA upon Diploma Completion</p>
+<p>$10,000 top up to CPF OA upon Diploma Completion.</p>
 </li>
 </ul>
 </td>
@@ -549,13 +680,13 @@ Data Centres and their users</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Reduced maximum monthly fees at Special Education Schools to $90 from
-$150</p>
+$150.</p>
 </li>
 <li>
-<p>Reduced fee caps for all special student care centers</p>
+<p>Reduced fee caps for all special student care centers.</p>
 </li>
 <li>
-<p>More employment and integration support for Adults with disabilities</p>
+<p>More employment and integration support for Adults with disabilities.</p>
 </li>
 </ul>
 </td>
@@ -566,16 +697,16 @@ $150</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Reduced monthly childcare fee caps in Government supported preschools
-in 2025</p>
+in 2025.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>$640 for anchor operators</p>
+<p>$640 for anchor operators.</p>
 </li>
 <li>
-<p>$680 for partner operators</p>
+<p>$680 for partner operators.</p>
 </li>
 <li>
-<p>Lower-income families will be eligible for higher subsidies</p>
+<p>Lower-income families will be eligible for higher subsidies.</p>
 </li>
 </ul>
 </td>
@@ -584,17 +715,15 @@ in 2025</p>
 </table>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>CPF Adjustments</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>CPF contribution rates increase for those aged 55 to 65 by 1.5% in 2025</p>
+<p>CPF contribution rates increase for those aged 55 to 65 by 1.5% in 2025.</p>
 </li>
 <li>
-<p>Extend CPF transition offset to employers by another year</p>
+<p>Extend CPF transition offset to employers by another year.</p>
 </li>
 </ul>
 <p></p>
@@ -619,7 +748,7 @@ in 2025</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Raised from 3x to 4x ($426,000) the Basic Retirement Sum from 2025</p>
+<p>Raised from 3x to 4x ($426,000) the Basic Retirement Sum from 2025.</p>
 </li>
 </ul>
 </td>
@@ -632,10 +761,10 @@ in 2025</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Balance will be transferred to Retirement Account up to the full ERS,
-remaining amount will be transferred to the Ordinary Account</p>
+remaining amount will be transferred to the Ordinary Account.</p>
 </li>
 <li>
-<p>Aged 55 and above</p>
+<p>Aged 55 and above.</p>
 </li>
 </ul>
 </td>
@@ -648,10 +777,10 @@ remaining amount will be transferred to the Ordinary Account</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Raised qualifying per capital household income for Silver Support Scheme
-to $2,300 from $1,800</p>
+to $2,300 from $1,800.</p>
 </li>
 <li>
-<p>Increased quarterly payments by 20%</p>
+<p>Increased quarterly payments by 20%.</p>
 </li>
 </ul>
 </td>
@@ -663,14 +792,14 @@ to $2,300 from $1,800</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Qualifying age uncapped, previously aged 55-70 only</p>
+<p>Qualifying age uncapped, previously aged 55-70 only.</p>
 </li>
 <li>
 <p>Increased annual matching cap to $2,000 from $600 and a lifetime matching
-cap of $20,000</p>
+cap of $20,000.</p>
 </li>
 <li>
-<p>Tax relief removed for CPF Cash Top ups</p>
+<p>Tax relief removed for CPF Cash Top ups.</p>
 </li>
 </ul>
 </td>
@@ -683,7 +812,7 @@ cap of $20,000</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Earn and Save bonus of up to $1,000 for seniors earning up to $6,000 a
-month</p>
+month.</p>
 </li>
 <li>
 <p>One-time Retirement Savings bonus of up to $1,500 to seniors with retirement
@@ -691,11 +820,11 @@ savings below BRS.</p>
 </li>
 <li>
 <p>One-time Medisave bonus of $750 to all seniors born in 1973 or earlier
-and $1,500 to young seniors (55-60)</p>
+and $1,500 to young seniors (55-60).</p>
 </li>
 <li>
 <p>Only seniors who lives in a property with Annual Value of $25,000 or less,
-and own no more than 1 property will be eligible</p>
+and own no more than 1 property will be eligible.</p>
 </li>
 </ul>
 </td>
@@ -704,8 +833,6 @@ and own no more than 1 property will be eligible</p>
 </table>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Healthcare</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -720,7 +847,7 @@ and own no more than 1 property will be eligible</p>
 <p>Scheme</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Details</p>
 </th>
 </tr>
 <tr>
@@ -730,21 +857,21 @@ and own no more than 1 property will be eligible</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Singaporens who lives in a property with Annual Value of $25,000 or less,
-and own no more than 1 property will receive</p>
+<p>Singaporeans who lives in a property with Annual Value of $25,000 or less,
+and own no more than 1 property will receive:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>One-time Medisave topup of $300 for Singaporeans born between 1974-1983
-and $200 for Singaporeans born between 1984-2003</p>
+and $200 for Singaporeans born between 1984-2003.</p>
 </li>
 </ul>
 </li>
 <li>
-<p>Others who do not meet the above criteria will receive</p>
+<p>Others who do not meet the above criteria will receive:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>One-time Medisave topup of $200 for Singaporeans born between 1974-1983
-and $100 for Singaporeans born between 1984-2003</p>
+and $100 for Singaporeans born between 1984-2003.</p>
 </li>
 </ul>
 </li>
@@ -759,10 +886,10 @@ and $100 for Singaporeans born between 1984-2003</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>MedishieldLife Premium Subsidy, CHAS, Outpatient/Inpatient Treatments
-at Public Hospitals</p>
+at Public Hospitals:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Changes to per captia household income thresholds</p>
+<p>Changes to per captia household income thresholds.</p>
 </li>
 </ul>
 </li>
@@ -773,8 +900,6 @@ at Public Hospitals</p>
 </table>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Tax Rebates</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -799,11 +924,11 @@ at Public Hospitals</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>50% for FY2024, capped at $200</p>
+<p>50% for FY2024, capped at $200.</p>
 </li>
 <li>
 <p>Increased annual income threshold for dependent related relief to $8,000
-from $4,000 from Year of Assessment 2025</p>
+from $4,000 from Year of Assessment 2025.</p>
 </li>
 </ul>
 </td>
@@ -816,15 +941,15 @@ from $4,000 from Year of Assessment 2025</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>100% Tax Deduction for cash donations made to emergency humanitarian assistance
-causes</p>
+causes.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Through designated charities</p>
+<p>Through designated charities.</p>
 </li>
 </ul>
 </li>
 <li>
-<p>Run for 4 years as a pilot scheme</p>
+<p>Run for 4 years as a pilot scheme.</p>
 </li>
 </ul>
 </td>
@@ -833,8 +958,6 @@ causes</p>
 </table>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Property Tax Adjustments</summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -877,8 +1000,6 @@ the prescribed sale timeline</p>
 </ul>
 </div>
 </details>
-</div>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Corporate Income Tax</summary>
 <div data-type="detailsContent" class="isomer-details-content">
