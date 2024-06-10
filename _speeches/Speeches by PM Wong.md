@@ -45,9 +45,23 @@ ways to make tomorrow better than today.”</p>
 <hr>
 <p>16 Febuary 2024</p>
 <h4>Budget 2024</h4>
-<p></p>
 <p>In Budget 2024, Finance Minister Lawrence Wong announced various support
 measures for the Nation.</p>
+<blockquote>
+<p>"Through Forward Singapore, we aim to give more assurance to help Singaporeans
+navigate the uncertainties in today's world, strengthen our sense of cohesion
+and solidarity and keep our society together"</p>
+<p></p>
+</blockquote>
+<blockquote>
+<p>Budget 2024 is about taking concrete steps to build our shared future
+together.</p>
+<p></p>
+<p>We will tackle immediate challenges for households and businesses, pursue
+better jobs, better growth and equip our workers for life, create more
+paths for equality and mobility, provide more assurance for families and
+seniors, and ultimately forge a stronger and more united nation.</p>
+</blockquote>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -70,123 +84,159 @@ measures for the Nation.</p>
 </tr>
 </tbody>
 </table>
-<p><strong><u>Fund Top Ups:</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong><u>GST Voucher Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Funding Allocations / Adjustments</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Fund</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GST Voucher Fund</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Topped up by $6b</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><u>Progressive Wage Credit Scheme (PWCS) Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Progressive Wage Credit Scheme (PWCS) Fund</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Topped up by $1b</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><u>National Productivity Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National Productivity Fund</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Topped up by $2b</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><u>Financial Sector Development Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Financial Sector Development Fund</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Topped up by $2b</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><u>Research Innovation and Enterprise 2025 Plan</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Research Innovation and Enterprise 2025 Plan</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Topped up by $3b</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><u>National AI Strategy 2.0</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>$1b allocation over the next 5 years into AI Compute, Talent and Industry
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>National AI Strategy 2.0</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allocated $1b over the next 5 years into AI Compute, Talent and Industry
 Development</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><u>Edusave Endownment Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Edusave Endownment Fund</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Topped up by $2b</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><u>Age Well SG</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>$3.5b set aside over the next 10 years</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><u>Future Energy Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Injection of $5b</p>
-</li>
-</ul>
-</li>
-<li>
-<p><strong><u>OurSG Arts Plan</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Budgeted $100m over the next 4 years</p>
-</li>
-</ul>
-</li>
-</ul>
-<p><strong><u>Charities Capabilities Fund Collaboration Grant</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Age Well SG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allocated $3.5b over the next 10 years</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Future Energy Fund</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allocated $5b</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OurSG Arts Plan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Allocated $100m over the next 4 years</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Charities Capabilities Fund Collaboration Grant</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>Extended for 3 years till end FY2026</p>
-</li>
-</ul>
-<hr>
-<p></p>
-<p><strong><u>CDC Vouchers</u></strong>
-</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>Vouchers</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Scheme</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Details</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CDC Vouchers</p>
+</td>
+<td rowspan="1" colspan="1">
 <p>$600 for all Singaporean Households</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>$300 to be disbursed End-Jun</p>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>$300 to be disbursed Jan 2025</p>
 </li>
 </ul>
-<p><strong><u>Cost-of-Living Special Payment</u></strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Cost-of-Living Special Payment</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>$200-$400 for Adult Singaporeans</p>
@@ -197,8 +247,13 @@ Development</p>
 </ul>
 </li>
 </ul>
-<p><strong><u>U-Save Voucher</u></strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>U-Save Voucher</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Up to $950 of utility bill rebates for eligible HDB Households from Apr
@@ -209,8 +264,13 @@ Development</p>
 Charges</p>
 </li>
 </ul>
-<p><strong><u>Parenthood Provisional Housing Scheme (PPHS)</u></strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Parenthood Provisional Housing Scheme (PPHS)</p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Open Market Vouchers for One year</p>
@@ -219,7 +279,14 @@ Charges</p>
 <p>For eligible families who rent a HDB flat in the Open Market</p>
 </li>
 </ul>
-<hr>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</details>
+</div>
+<p></p>
 <p><strong><u>SkillsFuture Level-Up Programme</u></strong>
 </p>
 <p>For all Singaporeans aged 40 and above:</p>
