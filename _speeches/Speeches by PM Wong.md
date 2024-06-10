@@ -70,8 +70,109 @@ measures for the Nation.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p>Enhancements to the Assurance Package will cost SGD$1.9b.</p>
+<p><strong><u>Fund Top Ups:</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>GST Voucher Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $6b</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><u>Progressive Wage Credit Scheme (PWCS) Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $1b</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><u>National Productivity Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $2b</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><u>Financial Sector Development Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $2b</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><u>Research Innovation and Enterprise 2025 Plan</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $3b</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><u>National AI Strategy 2.0</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$1b allocation over the next 5 years into AI Compute, Talent and Industry
+Development</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><u>Edusave Endownment Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Topped up by $2b</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><u>Age Well SG</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$3.5b set aside over the next 10 years</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><u>Future Energy Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Injection of $5b</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><u>OurSG Arts Plan</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Budgeted $100m over the next 4 years</p>
+</li>
+</ul>
+</li>
+</ul>
+<p><strong><u>Charities Capabilities Fund Collaboration Grant</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Extended for 3 years till end FY2026</p>
+</li>
+</ul>
+<hr>
 <p></p>
 <p><strong><u>CDC Vouchers</u></strong>
 </p>
@@ -84,20 +185,18 @@ measures for the Nation.</p>
 <p>$300 to be disbursed Jan 2025</p>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Cost-of-Living Special Payment</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>$200-$400 for Adult Singaporeans</p>
-</li>
-</ul>
 <ul data-tight="true" class="tight">
 <li>
 <p>Assessable income of up to $100,000 and own no more than 1 property</p>
 </li>
 </ul>
-<p></p>
+</li>
+</ul>
 <p><strong><u>U-Save Voucher</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -110,103 +209,17 @@ measures for the Nation.</p>
 Charges</p>
 </li>
 </ul>
-<p></p>
-<p><strong><u>Enterprise Support Package</u></strong>
+<p><strong><u>Parenthood Provisional Housing Scheme (PPHS)</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>$1.3b support to companies</p>
+<p>Open Market Vouchers for One year</p>
+</li>
+<li>
+<p>For eligible families who rent a HDB flat in the Open Market</p>
 </li>
 </ul>
-<ul data-tight="true" class="tight">
-<li>
-<p>Corporate Income Tax Rebate</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>50% rebate in YA2024. Capped at $40,000</p>
-</li>
-<li>
-<p>Min. benefit of $2000 in cash payout for companies with at least 1 local
-employee in 2023</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Enhanced Enterprise Financing Scheme</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Maximum working loan quantum permanently raised to $500,000</p>
-</li>
-<li>
-<p>Extended enhanced maximum trade loan quantum till 31 Mar 2025</p>
-</li>
-<li>
-<p>Extend risk sharing of project loans to domestic construction projects
-till 31 Mar 2025</p>
-</li>
-<li>
-<p>SkillsFuture Enterprise Credit validity extended to 30 Jun 2025</p>
-</li>
-<li>
-<p>Enhanced support for green loans</p>
-</li>
-<li>
-<p>Enhanced Energy Efficiency Grant</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Extended to more sectors including Manufacturing, Construction, Maritime,
-Data Centres and their users</p>
-</li>
-<li>
-<p>More support to companies with ambitious plans to reduce emissions</p>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-<p></p>
-<p><strong><u>GST Voucher Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Topped up by $6b</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>National Productivity Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Top up $2b</p>
-<p></p>
-</li>
-</ul>
-<p><strong><u>Financial Sector Development Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Topped up by $2b</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>Research Innovation and Enterprise 2025 Plan</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Topped up by $3b</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>National AI Strategy 2.0</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>$1b allocation over the next 5 years into AI Compute, Talent and Industry
-Development</p>
-</li>
-</ul>
-<p></p>
+<hr>
 <p><strong><u>SkillsFuture Level-Up Programme</u></strong>
 </p>
 <p>For all Singaporeans aged 40 and above:</p>
@@ -258,7 +271,6 @@ year</p>
 </li>
 <li>
 <p>More support for employers who raised wages of lower wage workers.</p>
-<p></p>
 </li>
 </ul>
 </li>
@@ -267,30 +279,12 @@ year</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PWCS Fund top up $1b</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
 <p>Co-funding levels will be raised to 50% from 30% this year</p>
 </li>
 <li>
 <p>PWCS Wage Ceiling raised to $3,000 from $2,500 in 2025</p>
-<p></p>
 </li>
 </ul>
-<p><strong><u>ITE Progression Award</u></strong>
-</p>
-<p>For Singaporean ITE Graduates aged 30 and below:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>$5,000 topup to PSEA upon Diploma Enrollment</p>
-</li>
-<li>
-<p>$10,000 topup to CPF OA upon Diploma Completion</p>
-</li>
-</ul>
-<p></p>
 <p><strong><u>Enhanced Commlink Plus Progress Package</u></strong>
 </p>
 <p>For less well-off families:</p>
@@ -304,40 +298,72 @@ secure a job and stay employed</p>
 to their CPF</p>
 </li>
 </ul>
-<p></p>
-<p>Reduced monthly childcare fee caps in Government supported preschools
-in 2025</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>$640 for anchor operators</p>
-</li>
-<li>
-<p>$680 for partner operators</p>
-</li>
-</ul>
-<p></p>
-<p>Higher preschool subsidies will be extended to all children from lower-income
-families, including those with non-working mothers.</p>
-<p></p>
-<p><strong><u>Edusave Endownment Fund</u></strong>
+<p><strong><u>Enterprise Support Package</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Top up $2b</p>
+<p>$1.3b of support to companies</p>
 </li>
 </ul>
-<p></p>
-<p><strong><u>Parenthood Provisional Housing Scheme (PPHS)</u></strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Open Market Vouchers for One year</p>
+<p>Corporate Income Tax Rebate</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>50% rebate in YA2024. Capped at $40,000</p>
 </li>
 <li>
-<p>For eligible families who rent a HDB flat in the Open Market</p>
+<p>Min. benefit of $2000 in cash payout for companies with at least 1 local
+employee in 2023</p>
 </li>
 </ul>
-<p></p>
+</li>
+<li>
+<p>Enhanced Enterprise Financing Scheme</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Maximum working loan quantum permanently raised to $500,000</p>
+</li>
+<li>
+<p>Extended enhanced maximum trade loan quantum till 31 Mar 2025</p>
+</li>
+<li>
+<p>Extend risk sharing of project loans to domestic construction projects
+till 31 Mar 2025</p>
+</li>
+<li>
+<p>SkillsFuture Enterprise Credit validity extended to 30 Jun 2025</p>
+</li>
+<li>
+<p>Enhanced support for green loans</p>
+</li>
+<li>
+<p>Enhanced Energy Efficiency Grant</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Extended to more sectors including Manufacturing, Construction, Maritime,
+Data Centres and their users</p>
+</li>
+<li>
+<p>More support to companies with ambitious plans to reduce emissions</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<hr>
+<p><strong><u>ITE Progression Award</u></strong>
+</p>
+<p>For Singaporean ITE Graduates aged 30 and below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$5,000 topup to PSEA upon Diploma Enrollment</p>
+</li>
+<li>
+<p>$10,000 topup to CPF OA upon Diploma Completion</p>
+</li>
+</ul>
 <p><strong><u>Support for Special Needs</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -352,7 +378,21 @@ $150</p>
 <p>More employment and integration support for Adults with disabilities</p>
 </li>
 </ul>
-<p></p>
+<p><strong><u>Preschool Fee Adjustments</u></strong>
+</p>
+<p>Reduced monthly childcare fee caps in Government supported preschools
+in 2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$640 for anchor operators</p>
+</li>
+<li>
+<p>$680 for partner operators</p>
+</li>
+</ul>
+<p>Higher preschool subsidies will be extended to all children from lower-income
+families, including those with non-working mothers.</p>
+<hr>
 <p><strong><u>CPF Adjustments</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -424,7 +464,6 @@ and own no more than 1 property</p>
 </ul>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Medisave</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -448,7 +487,6 @@ and $100 for Singaporeans born between 1984-2003</p>
 </ul>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Healthcare and Associated Social Support Subsidy Scheme Adjustments</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -462,15 +500,7 @@ at Public Hospitals</p>
 </ul>
 </li>
 </ul>
-<p></p>
-<p><strong><u>Age Well SG</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>$3.5b set aside over the next 10 years</p>
-</li>
-</ul>
-<p></p>
+<hr>
 <p><strong><u>MINDEF and Home Team Agencies</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -478,23 +508,29 @@ at Public Hospitals</p>
 <p>$200 LifeSG credits to all NSF and NSMen</p>
 </li>
 </ul>
-<p></p>
-<p><strong><u>Future Energy Fund</u></strong>
+<p><strong><u>OneTeam Singapore Fund</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Injection of $5b</p>
+<p>Top up of $20m and extend it till end FY2027</p>
+</li>
+<li>
+<p>Broaden scope of eligible matching donations to cover more emerging sports
+such as Pickleball, Tchoukball and Powerlifting</p>
 </li>
 </ul>
-<p></p>
-<p><strong><u>Charities Capabilities Fund Collaboration Grant </u></strong>
+<hr>
+<p><strong><u>Personal Income Tax Rebate</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Extended for 3 years till end FY2026</p>
+<p>50% for FY2024, capped at $200</p>
+</li>
+<li>
+<p>Increased annual income threshold for dependent related relief to $8,000
+from $4,000 from Year of Assessment 2025</p>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Overseas Humanitarian Assistance Tax Deductions Scheme</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -511,39 +547,6 @@ assistance causes</p>
 <p>Run for 4 years as a pilot scheme</p>
 </li>
 </ul>
-<p></p>
-<p><strong><u>OurSG Arts Plan</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Investing $100m over the next 4 years</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>OneTeam Singapore Fund</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Top up of $20m and extend it till end FY2027</p>
-</li>
-<li>
-<p>Broaden scope of eligible matching donations to cover more emerging sports
-such as Pickleball, Tchoukball and Powerlifting</p>
-</li>
-</ul>
-<p></p>
-<p><strong><u>Personal Income Tax Rebate</u></strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>50% for FY2024, capped at $200</p>
-</li>
-<li>
-<p>Increased annual income threshold for dependent related relief to $8,000
-from $4,000 from Year of Assessment 2025</p>
-</li>
-</ul>
-<p></p>
 <p><strong><u>Property Tax Adjustments</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -583,7 +586,6 @@ the prescribed sale timeline</p>
 </ul>
 </li>
 </ul>
-<p></p>
 <p><strong><u>Corporate Income Tax</u></strong>
 </p>
 <p>Implementation of 2 components of Pillar 2 BEPS (Based Erosion of Profits
