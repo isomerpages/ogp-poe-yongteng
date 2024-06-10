@@ -75,12 +75,6 @@ and solidarity and keep our society together"</p>
 </tr>
 </tbody>
 </table>
-<blockquote>
-<p>"We will tackle immediate challenges for households and businesses, pursue
-better jobs, better growth and equip our workers for life, create more
-paths for equality and mobility, provide more assurance for families and
-seniors, and ultimately forge a stronger and more united nation."</p>
-</blockquote>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>Funding Allocations / Adjustments</summary>
