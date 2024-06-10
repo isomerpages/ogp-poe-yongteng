@@ -452,11 +452,7 @@ to their CPF</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Corporate Income Tax Rebate</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -472,11 +468,7 @@ employee in 2023</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Enhanced Enterprise Financing Scheme</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -498,11 +490,7 @@ till 31 Mar 2025</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Enhanced Energy Efficiency Grant</p>
-</li>
-</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
