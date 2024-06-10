@@ -14,9 +14,7 @@ where he gave a speech.</p>
 <p></p>
 <blockquote>
 <p>“We can be a society where every Singaporean matters and a Singapore that
-matters to every Singaporean”
-<br>
-</p>
+matters to every Singaporean”</p>
 <p>“This is my promise to all Singaporeans: I will serve you with all my
 heart. I will never settle for the status quo. I will always seek better
 ways to make tomorrow better than today.”</p>
@@ -404,9 +402,9 @@ cap of $20,000</p>
 <p>Majulah Package</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>For seniors who lives in a property with Annual Value of $25,000 or less,
-and own no more than 1 property</p>
-<ul data-tight="true" class="tight">
+<p>$7.5b set aside for a new Majulah Package Fund to cover total lifetime
+cost of $8.2b</p>
+</li>
 <li>
 <p>Earn and Save bonus of up to $1,000 for seniors earning up to $6,000 a
 month as long as they are working</p>
@@ -419,22 +417,192 @@ savings below BRS.</p>
 <p>One-time Medisave bonus of $750 to all seniors born in 1973 or earlier
 and $1,500 to young seniors (55-60)</p>
 </li>
+<li>
+<p>For seniors who lives in a property with Annual Value of $25,000 or less,
+and own no more than 1 property</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Medisave</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singaporens who lives in a property with Annual Value of $25,000 or less,
+and own no more than 1 property will receive</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One-time Medisave topup of $300 for Singaporeans born between 1974-1983
+and $200 for Singaporeans born between 1984-2003</p>
+</li>
 </ul>
 </li>
 <li>
-<p>Set aside $7.5b for a new Majulah Package Fund to cover total lifetime
-cost of $8.2b</p>
+<p>Others who do not meet the above criteria will receive</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>One-time Medisave topup of $200 for Singaporeans born between 1974-1983
+and $100 for Singaporeans born between 1984-2003</p>
 </li>
 </ul>
 </li>
 </ul>
 <p></p>
+<p><strong><u>Healthcare and Associated Social Support Subsidy Scheme Adjustments</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>MedishieldLife Premium Subsidy, CHAS, Outpatient/Inpatient Treatments
+at Public Hospitals</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Changes to per captia household income thresholds</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
+<p><strong><u>Age Well SG</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$3.5b set aside over the next 10 years</p>
+</li>
+</ul>
 <p></p>
+<p><strong><u>MINDEF and Home Team Agencies</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>$200 LifeSG credits to all NSF and NSMen</p>
+</li>
+</ul>
 <p></p>
+<p><strong><u>Future Energy Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Injection of $5b</p>
+</li>
+</ul>
 <p></p>
+<p><strong><u>Charities Capabilities Fund Collaboration Grant </u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Extended for 3 years till end FY2026</p>
+</li>
+</ul>
 <p></p>
+<p><strong><u>Overseas Humanitarian Assistance Tax Deductions Scheme</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>100% Tax Deduction for cash donations made to overseas emergency humanitarian
+assistance causes</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Through designated charities</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Run for 4 years as a pilot scheme</p>
+</li>
+</ul>
 <p></p>
+<p><strong><u>OurSG Arts Plan</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Investing $100m over the next 4 years</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>OneTeam Singapore Fund</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Top up of $20m and extend it till end FY2027</p>
+</li>
+<li>
+<p>Broaden scope of eligible matching donations to cover more emerging sports
+such as Pickleball, Tchoukball and Powerlifting</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Personal Income Tax Rebate</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>50% for FY2024, capped at $200</p>
+</li>
+<li>
+<p>Increased annual income threshold for dependent related relief to $8,000
+from $4,000 from Year of Assessment 2025</p>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Property Tax Adjustments</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raised Annual Values Bands of owner occupier residential property tax
+rates with from 1 Jan 2025</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lower threshold raised to $12,000 from $8,000</p>
+</li>
+<li>
+<p>Upper threshold raised to $140,000 from $100,000</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Singaporean married couples with existing residential property can enjoy
+Additional Buyer Stamp Duties (ABSD) refund under the ABSD concession</p>
+</li>
+<li>
+<p>ABSD concession extended to single Singaporean seniors aged 55 and above</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>ABSD refund if they sell their first property within 6 months after purchasing
+a lower value replacement property effective immediately</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Housing developers granted ABSD remission if they sell all units in their
+development within a prescribed sale timeline</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lower ABSD clawback rate if they sold at least 90% of development within
+the prescribed sale timeline</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<p><strong><u>Corporate Income Tax</u></strong>
+</p>
+<p>Implementation of 2 components of Pillar 2 BEPS (Based Erosion of Profits
+Shifting) 2.0 effective 1 Jan 2025</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Income Inclusion Rule (IIR) of 15% for MNE groups parented in Singapore
+on groups overseas profits regardless of where they operates.</p>
+</li>
+<li>
+<p>Domestic Topup Tax (DTT) of 15% for Singapore profits of MNE groups operating
+in Singapore.</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Applicable to large MNE with global revenue of at least 750m Euros annually</p>
+</li>
+</ul>
 <p></p>
 <p></p>
 <p></p>
