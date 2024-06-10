@@ -340,7 +340,7 @@ families, including those with non-working mothers.</p>
 </li>
 </ul>
 <p></p>
-<p><strong><u>Support for Special Needs </u></strong>
+<p><strong><u>Support for Special Needs</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -370,9 +370,67 @@ Retirement Sum from 2025</p>
 </li>
 <li>
 <p>Special Account will be closed for those aged 55 and above and transferred
-to Retirement Account</p>
+to Retirement Account up to the full Retirement Sum, remaining amount will
+be transferred to the Ordinary Account</p>
+</li>
+<li>
+<p>Enhanced Retirement Support Scheme (2025 onwards)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Raised qualifying per capital household income for Silver Support Scheme
+from to $2,300 from $1,800</p>
+</li>
+<li>
+<p>Increased quarterly payments by 20%</p>
 </li>
 </ul>
+</li>
+<li>
+<p>Enhanced Match Retirement Savings Scheme (MRSS) (2025 onwards)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Qualifying age uncapped for Singaporeans aged 55 and above</p>
+</li>
+<li>
+<p>Increased annual matching cap to $2,000 from $600 and a lifetime matching
+cap of $20,000</p>
+</li>
+<li>
+<p>Tax relief removed for CPF Cash Top ups</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Majulah Package</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>For seniors who lives in a property with Annual Value of $25,000 or less,
+and own no more than 1 property</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Earn and Save bonus of up to $1,000 for seniors earning up to $6,000 a
+month as long as they are working</p>
+</li>
+<li>
+<p>One-time Retirement Savings bonus of up to $1,500 to seniors with retirement
+savings below BRS.</p>
+</li>
+<li>
+<p>One-time Medisave bonus of $750 to all seniors born in 1973 or earlier
+and $1,500 to young seniors (55-60)</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Set aside $7.5b for a new Majulah Package Fund to cover total lifetime
+cost of $8.2b</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
