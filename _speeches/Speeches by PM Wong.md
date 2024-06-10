@@ -925,11 +925,7 @@ of where they operates.</p>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
 <p>Applicable to large MNE with global revenue of at least 750m Euros annually</p>
-</li>
-</ul>
 </div>
 </details>
 </div>
