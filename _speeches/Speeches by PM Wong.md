@@ -76,9 +76,6 @@ and solidarity and keep our society together"</p>
 </tbody>
 </table>
 <blockquote>
-<p>"Budget 2024 is about taking concrete steps to build our shared future
-together."</p>
-<p></p>
 <p>"We will tackle immediate challenges for households and businesses, pursue
 better jobs, better growth and equip our workers for life, create more
 paths for equality and mobility, provide more assurance for families and
