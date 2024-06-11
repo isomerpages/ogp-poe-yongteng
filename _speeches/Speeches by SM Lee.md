@@ -107,7 +107,7 @@ from the past while innovating for the future.</p>
 </details>
 </div>
 <hr>
-<h3>SM Lee's PAP Rally Speech GE 2015 </h3>
+<h3>SM Lee's PAP Rally Speech GE 2015</h3>
 <p><strong>8 Sept 2015</strong>
 </p>
 <p></p>
@@ -120,29 +120,9 @@ life, no corruption, no dishonesty.</p>
 <p>We are also honest when it comes to policies and the choices that we have
 to make. We do right by Singaporeans."</p>
 </blockquote>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TyXZFAjepag?si=PQn40PDo8nEWVpah"></iframe>
 </div>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p>In his speech, SM Lee highlighted numerous pointers below</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
