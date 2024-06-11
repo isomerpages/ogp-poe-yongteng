@@ -126,8 +126,7 @@ to make. We do right by Singaporeans."</p>
 <p>In his speech, SM Lee highlighted numerous pointers below</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>Outstanding Leadership</strong>
-</summary>
+<summary>Outstanding Leadership</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -145,8 +144,7 @@ ensuring the country's stability and growth.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Government and Trust</strong>
-</summary>
+<summary>Government and Trust</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -165,8 +163,7 @@ for the greater good of the country.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Education and Training</strong>
-</summary>
+<summary>Education and Training</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -181,8 +178,7 @@ the evolving job market.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Economic Challenges and Resilience</strong>
-</summary>
+<summary>Economic Challenges and Resilience</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
