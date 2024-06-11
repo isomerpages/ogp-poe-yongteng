@@ -107,19 +107,18 @@ from the past while innovating for the future.</p>
 </details>
 </div>
 <hr>
-<h3>SM Lee's National Day Rally Speech 2004</h3>
-<p><strong>20 Aug 2004</strong>
+<h3>SM Lee's PAP Rally Speech GE 2015 </h3>
+<p><strong>8 Sept 2015</strong>
 </p>
 <p></p>
 <blockquote>
 <p></p>
-<p>"This is not just a change of PMs. It is a generational change, to the
-post-independence generation.</p>
-<p>It is a different generation of Singaporeans.</p>
-<p>Different from the group who fought for independence. Different from the
-group who grew up with independence.</p>
-<p>Now, it is a new generation who will take Singapore in another step forward,
-in another level higher."</p>
+<p>"We have kept faith between the Government and the people. We have kept
+our politics honest, we insisted on high standards of integrity in public
+life, no corruption, no dishonesty.</p>
+<p></p>
+<p>We are also honest when it comes to policies and the choices that we have
+to make. We do right by Singaporeans."</p>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
@@ -137,7 +136,7 @@ in another level higher."</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/1nWK-F36fBs?si=jN6HvYdgHFvPBlKP"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TyXZFAjepag?si=PQn40PDo8nEWVpah"></iframe>
 </div>
 <p></p>
 </td>
@@ -147,81 +146,73 @@ in another level higher."</p>
 <p>In his speech, SM Lee highlighted numerous pointers below</p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary>Economic Challenges and Reforms</summary>
+<summary><strong>Outstanding Leadership</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Emphasized the need for ongoing wage reforms to boost productivity and
-economic competitiveness.</p>
+<p>Highlighted the critical role of exceptional leadership in Singapore’s
+development.</p>
 </li>
 <li>
-<p>Highlighted the importance of fostering a supportive environment for entrepreneurs.
-The government aimed to reduce bureaucratic obstacles and encourage innovative
-ventures.</p>
+<p>Having competent leaders has been a cornerstone of Singapore’s progress,
+ensuring the country's stability and growth.</p>
+</li>
+<li>
+<p>There are lineage of strong leaders in the labor movement and the government</p>
 </li>
 </ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Innovative Solutions</summary>
+<summary><strong>Government and Trust</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Used the example of the Duck Tours and Hippo Tours to illustrate the challenges
-and eventual success of innovative businesses in Singapore. This highlighted
-the need for government flexibility in addressing unconventional business
-models.</p>
+<p>Relationship between the government and the people is built on trust and
+high standards of integrity.</p>
+</li>
+<li>
+<p>The government has consistently kept its promises and maintained honest
+politics, which is crucial for gaining the public’s trust.</p>
+</li>
+<li>
+<p>This bond allows the government to act decisively, even in tough situations,
+for the greater good of the country.</p>
 </li>
 </ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Encouraging Public Participation</summary>
+<summary><strong>Education and Training</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Announced the removal of licensing requirements for indoor talks, except
-those discussing sensitive issues like race and religion.</p>
+<p>Importance of education and continuous training for the workforce. Initiatives
+like SkillsFuture are highlighted as</p>
 </li>
 <li>
-<p>Plans to further liberalize the Speakers' Corner, allowing more activities
-and expressions of free speech, provided they do not incite racial or religious
-discord or violence.</p>
-</li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Government's Role</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
-<li>
-<p>Stressed the necessity for the government to continually reassess and
-adapt policies to meet new challenges and opportunities such as the Goods
-and Services Tax (GST) and Central Provident Fund (CPF) adjustments.</p>
+<p>The government aims to ensure that Singaporeans are well-prepared for
+the evolving job market.</p>
 </li>
 </ul>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Social and Cultural Shifts</summary>
+<summary><strong>Economic Challenges and Resilience</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p>Encouraged individuals and the government to challenge the status quo
-and avoid conformity.</p>
+<p>Exceptional leadership is necessary to navigate economic challenges. Global
+competition and technological advancements as ongoing challenges that require
+strategic leadership to ensure Singapore remains competitive.</p>
 </li>
-</ul>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Youth and Future Orientation</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<ul data-tight="true" class="tight">
 <li>
-<p>Urged the younger generation to be forward-looking and not be deterred
-by older generations' pessimism or cautionary tales. Importance of learning
-from the past while innovating for the future.</p>
+<p>There is a need for policies that balance economic growth with social
+stability.</p>
 </li>
 </ul>
 </div>
