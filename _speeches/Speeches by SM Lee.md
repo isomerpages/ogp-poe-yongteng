@@ -7,8 +7,11 @@ description: This page contain speeches by SM Lee
 <h1>Iconic Speeches by SM Lee</h1>
 <hr>
 <h3>SM Lee's National Day Rally Speech 2004</h3>
-<p><strong>20 Aug 2004</strong>
+<p><strong>22 Aug 2004</strong>
 </p>
+<p>On 22 August 2024, Former Prime Minister Lee Hsien Loong had just succeeded
+Goh Chok Tong and he delivered his first national day rally speech shortly
+after at National University of Singapore.</p>
 <blockquote>
 <p></p>
 <p>"This is not just a change of PMs. It is a generational change, to the
