@@ -40,16 +40,13 @@ weeks, sometimes ending up in failure just because you missed out a digit,
 alphabet in the details, lets not talk about the outrageous fees that can
 possibly incur in the middle. In blockchain, seconds is all you need to
 send money anywhere, anytime, instantaneously.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Decentralized Finance vs Traditional Finance" src="/images/Screen_Shot_2024_06_13_at_12_35_18_AM.jpg">
-</div>
+<p></p>
 <p>There are several use cases on can you do with real world assets on the
 blockchain. Developers all around the world have already created a vibrant
-ecosystem of applications on the Blockchain that mimic multiple sectors,
-especially traditional finance. Applications such as Lending / Borrowing
-that provides yield without any middleman taking a cut, Spot / Futures
-Trading, Tokenized Stocks, Options for blue chip assets (for eg, Ethereum)
-and Auctions.</p>
+ecosystem of applications on blockchains that mimic multiple sectors, especially
+traditional finance. Applications such as Lending / Borrowing that provides
+yields without any middleman taking a cut, Spot / Futures Trading, Tokenized
+Stocks, Options for blue chip assets (for eg, Ethereum) and Auctions.</p>
 <p></p>
 <blockquote>
 <p><a href="https://decrypt.co/113413/singapore-tests-institutional-defi-on-ethereum-welcomes-usdc-issuer" class="sc-adb616fe-0 bJsyml" rel="noopener noreferrer nofollow" target="_blank"><u>In November</u></a> last
@@ -63,10 +60,15 @@ promising, with endless possibility. In fact, Government all around the
 world are exploring the usage of Blockchains to integrate with numerous
 sectors.</p>
 <p></p>
-<p>Singapore's MAS taking part in <a href="https://decrypt.co/206153/jp-morgan-onyx-avalanche-tokenized-funds-avax" rel="noopener noreferrer nofollow" target="_blank">Project Guardian</a>,
+<p>Singapore's MAS took part in <a href="https://decrypt.co/206153/jp-morgan-onyx-avalanche-tokenized-funds-avax" rel="noopener noreferrer nofollow" target="_blank">Project Guardian</a>,
 which signalled the nation's interest in exploring such technology especially
-on asset tokenization, tokenized funds with banking powerhouses such as
-JPMorgan and Apollo Global.</p>
+on asset tokenization, tokenized funds along with banking powerhouses such
+as JPMorgan and Apollo Global.</p>
+<p></p>
+<p>I personally believe blockchain is a technology that can be integrated
+into many of our everyday products to improve in so many areas such as
+proving fraud, identity, banking, financial products etc. It is a space
+worth exploring and integrating into the world we now know.</p>
 <p></p>
 <p></p>
 <p></p>
