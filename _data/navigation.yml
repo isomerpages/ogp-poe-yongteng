@@ -1,6 +1,8 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Home
+    url: /homepage
   - title: Speeches
     collection: speeches
+  - title: Contact Us
+    url: /contact-us/
