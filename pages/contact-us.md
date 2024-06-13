@@ -16,7 +16,7 @@ contacts:
       - phone: +65 8422 2695
       - email: teeyongteng@gmail.com
       - other: <a href="https://www.linkedin.com/in/tee-yong-teng-2a55ab134/"><u>Connect
-          with me!</u></a>
+          with me</u></a>
     title: General Enquiries & Feedback
 feedback: ""
 ---
