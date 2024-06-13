@@ -335,17 +335,10 @@ Development</p>
 <p>OneTeam Singapore Fund</p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Allocated $20m and extended till end FY2027</p>
-</li>
-</ul>
-<ul data-tight="true" class="tight">
-<li>
+<p></p>
 <p>Broaden scope of eligible matching donations to cover more emerging sports
 such as Pickleball, Tchoukball and Powerlifting</p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
