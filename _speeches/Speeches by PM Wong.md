@@ -176,7 +176,7 @@ common purpose and shared resolve.</p>
 </div>
 <p></p>
 <hr>
-<p>16 February 2024</p>
+<p>16 Feb 2024</p>
 <h3>Budget 2024</h3>
 <p>In Budget 2024, Finance Minister Lawrence Wong announced various support
 measures for the Nation.</p>
