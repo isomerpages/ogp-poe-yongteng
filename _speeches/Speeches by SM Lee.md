@@ -6,9 +6,9 @@ description: This page contain speeches by SM Lee
 ---
 <h1>Iconic Speeches by SM Lee</h1>
 <hr>
+<p>22 Aug 2004</p>
 <h3>SM Lee's National Day Rally Speech 2004</h3>
-<p><strong>22 Aug 2004</strong>
-</p>
+<p></p>
 <p>On 22 August 2024, Former Prime Minister Lee Hsien Loong had just succeeded
 Goh Chok Tong and he delivered his first national day rally speech shortly
 after at National University of Singapore.</p>
@@ -110,10 +110,12 @@ from the past while innovating for the future.</p>
 </details>
 </div>
 <hr>
+<p>8 Sept 2015</p>
 <h3>SM Lee's PAP Rally Speech GE 2015</h3>
-<p><strong>8 Sept 2015</strong>
-</p>
-<p></p>
+<p>On 8 September 2015, during the general election campaign, SM Lee speech
+was crucial in rallying support for the People's Action Party (PAP). He
+emphasized the importance of good governance, political stability, and
+the PAP’s role in Singapore’s progress.</p>
 <blockquote>
 <p></p>
 <p>"We have kept faith between the Government and the people. We have kept
