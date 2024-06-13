@@ -110,7 +110,7 @@ from the past while innovating for the future.</p>
 </details>
 </div>
 <hr>
-<p>8 Sept 2015</p>
+<p>8 Sep 2015</p>
 <h3>SM Lee's PAP Rally Speech GE 2015</h3>
 <p>On 8 September 2015, during the general election campaign, SM Lee speech
 was crucial in rallying support for the People's Action Party (PAP). He
