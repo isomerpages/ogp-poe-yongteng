@@ -132,15 +132,21 @@ happen and collect fees</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Futures Trading</p>
+<p>Tickets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Derivatives Trading</p>
+<p>NFTs</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>24/7 up time</p>
+<p>Reduced likelihood of purchasing fraudulent tickets</p>
+</li>
+<li>
+<p>Ensuring tickets can only be used once and by the current holder</p>
+</li>
+<li>
+<p>Royalties for organizers / artists every secondary sales made</p>
 </li>
 </ul>
 </td>
