@@ -12,18 +12,8 @@ sections:
       background: /images/hero-banner.png
       button: Connect with me
       url: https://www.linkedin.com/in/tee-yong-teng-2a55ab134/
-      key_highlights:
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
   - announcements:
-      title: Amazing Food
+      title: AMAZING FOOD
       id: announcements
       subtitle: Dont Miss Out On Places With
       announcement_items:
@@ -51,7 +41,7 @@ sections:
           link_url: ""
   - textcards:
       title: Eat / Drink / Relax
-      subtitle: Our Top 3 Locations to
+      subtitle: Our Top 3 locations to
       id: textcards
       cards:
         - title: 3 Meals a Day
