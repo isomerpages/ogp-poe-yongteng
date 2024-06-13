@@ -97,7 +97,7 @@ sectors.</p>
 huge cuts</p>
 </li>
 <li>
-<p>Yield credit every block (seconds)</p>
+<p>Yield credited every block (seconds)</p>
 </li>
 <li>
 <p>24/7 uptime</p>
