@@ -115,10 +115,10 @@ huge cuts</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Ability to custody your own money than a custodian</p>
+<p>Ability to custody your own money and assets than a custodian</p>
 </li>
 <li>
-<p>Back-end smart contracts is always up if front-end gets taken down</p>
+<p>Back-end smart contracts is always up if the front-end gets taken down</p>
 </li>
 <li>
 <p>Ability to become a market maker by providing liquidity for trades to
