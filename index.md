@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Tee Yong Teng
-      subtitle: IT Diploma Graduate, Curious Tech Geek, Experimenter,
+      subtitle: IT Diploma Graduate, Curious Tech Geek, Experimenter
       background: /images/hero-banner.png
       button: Connect with me
       url: https://www.linkedin.com/in/tee-yong-teng-2a55ab134/
