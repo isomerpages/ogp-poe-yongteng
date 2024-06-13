@@ -6,8 +6,7 @@ description: This page contain speeches by PM Wong
 ---
 <h1>Iconic Speeches by PM Wong</h1>
 <hr>
-<p><strong>15 May 2024</strong>
-</p>
+<p>15 May 2024</p>
 <h3>PM Wong's Maiden Speech</h3>
 <p>PM Wong was sworn in to Office on Wednesday, 15 May 2024 at the Istana
 in a outdoor ceremony and was attended by hundreds of guests</p>
@@ -175,13 +174,9 @@ common purpose and shared resolve.</p>
 </div>
 </details>
 </div>
-<h4></h4>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <hr>
-<p>16 Febuary 2024</p>
+<p>16 February 2024</p>
 <h3>Budget 2024</h3>
 <p>In Budget 2024, Finance Minister Lawrence Wong announced various support
 measures for the Nation.</p>
