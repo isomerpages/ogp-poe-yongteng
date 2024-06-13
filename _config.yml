@@ -1,5 +1,5 @@
 title: Title
-url: ""
+url: https://staging.dgmnaw04f0nca.amplifyapp.com
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#6031b6"
@@ -53,3 +53,7 @@ staging: https://staging-lite.d3g0obs3hoq0b8.amplifyapp.com
 prod: https://master.dgmnaw04f0nca.amplifyapp.com
 facebook-pixel: ""
 resources_name: all-speeches
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: ""
+linkedin-insights: ""
